@@ -14,7 +14,7 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][facebook]
+[Facebook] https://www.facebook.com/tinnguyen2908/
 
 <br />
 
