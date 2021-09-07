@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: [Facebook] https://www.facebook.com/tinnguyen2908/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I really enjoy working with people
+- ⚡ Fun fact: I really enjoy working with people !
 -->
