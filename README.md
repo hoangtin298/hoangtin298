@@ -4,7 +4,7 @@
 
 
 ## I'm a Software Developer!!
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects here ... (updating portfolio)
 - 🔭 I’m currently working on my internship.
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 👯 I’m looking to collaborate on open source
