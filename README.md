@@ -14,7 +14,7 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][facebook]
 
 <br />
 
@@ -39,7 +39,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hoangtin298&show_icons=true&hide_border=true" />
+  <img align="left" alt="Tin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hoangtin298&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -50,8 +50,8 @@
 
 </details>
 
-[website]: https://holistic-developer.com/
+<!-- [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
 [instagram]: https://www.instagram.com/holistic_developer/
 [linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+[portfolio]: https://arsentieva.github.io/profile/ -->
