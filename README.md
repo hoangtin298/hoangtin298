@@ -1,16 +1,16 @@
-### Hello World, I'm Anna  👋
+### Hello World, I'm Tin  👋
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
+## I'm a Software Developer!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
+- 🔭 I’m currently working on my internship.
+- 🌱 I’m currently learning ReactJS and NodeJS
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...
 
 
 ### Talk with me, I am kinda awesome:
