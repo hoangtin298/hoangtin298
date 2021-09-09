@@ -1,5 +1,5 @@
-### Hello World, I'm Tin  👋
-<img src="https://chrisdermody.com/content/images/2019/07/animation3-npm_run-v4.gif" width="50"></h2>
+### Hello World, I'm Tin <img src="https://chrisdermody.com/content/images/2019/07/animation3-npm_run-v4.gif" width="50"></h2> 👋
+
 <img align="right" alt="GIF" src="https://github.com/hoangtin298/hoangtin298/blob/main/dev-gif.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
