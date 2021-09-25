@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm a frontend and weekend developer!
 
 
 ### Talk with me, I am kinda awesome:
