@@ -32,7 +32,7 @@
             ![Redux](https://img.shields.io/badge/-Redux-%23e5e5e5?style=flat-square&logo=redux&logoColor=da7cff)
 - 🕹️ &nbsp; ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
               ![Express](https://img.shields.io/badge/-Express-E34A86?style=flat-square&logo=Express)
-- 🛢 &nbsp;  ![SQLserver](https://img.shields.io/badge/-SQLserver-181717?style=flat-square&logo=sql-server)
+- 🛢 &nbsp;&nbsp;  ![SQLserver](https://img.shields.io/badge/-SQLserver-181717?style=flat-square&logo=sql-server)
             ![MongoDB](https://img.shields.io/badge/-MongoDB-49C31B?style=flat-square&logo=mongodb)
 - 🔧 &nbsp; ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
             ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) 
