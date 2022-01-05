@@ -34,15 +34,22 @@
             ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 <br />
 <br />
+
 ### More!
+
 <details>
+            
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Tin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hoangtin298&show_icons=true&hide_border=true" />
 </details>
+
 <details>
+            
   <summary>:zap: Most Used Languages</summary>
 <img align="left" alt="Tin's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtin298" />
+            
 </details>
+
 <!-- [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw -->
 [facebook]: https://www.facebook.com/tinnguyen2908/
