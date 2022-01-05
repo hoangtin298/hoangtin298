@@ -1,10 +1,10 @@
-### Hello World, I'm Tin 👋
+### Hello World, I'm Tin Nguyen 👋
 <img src="https://chrisdermody.com/content/images/2019/07/animation3-npm_run-v4.gif" width="50">
 <img align="right" alt="GIF" src="https://github.com/hoangtin298/hoangtin298/blob/main/dev-gif.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-## I'm a Software Engineer!!
+## I'm a Software Engineer !!!
 - ✍ You can find my projects here: https://www.topcv.vn/xem-cv/UFBeVgYEBwNRVQNSBlIFAQAGB1VSWgQHAw4MBQ84d1
 - 🔭 I’m currently a fourth year student.
 - 🌱 I’m currently learning ReactJS and NodeJS
@@ -38,7 +38,6 @@
             ![Postman](https://img.shields.io/badge/-Postman-181717?style=flat-square&logo=Postman)
             ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
      
-<br />
 <br />
 
 ### More!
