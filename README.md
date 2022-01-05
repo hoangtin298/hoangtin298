@@ -1,4 +1,4 @@
-### Hello World, I'm Tin Nguyen 👋 
+<h1>Hello World, I'm Tin Nguyen 👋</h1> 
 <img align="right" alt="GIF" src="https://github.com/hoangtin298/hoangtin298/blob/main/dev-gif.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
