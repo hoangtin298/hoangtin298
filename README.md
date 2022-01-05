@@ -4,14 +4,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-## I'm a Software Developer!!
-- ✍ You can find my projects here ... (updating portfolio)
-- 🔭 I’m currently working on my internship.
+## I'm a Software Engineer!!
+- ✍ You can find my projects here: https://www.topcv.vn/xem-cv/UFBeVgYEBwNRVQNSBlIFAQAGB1VSWgQHAw4MBQ84d1
+- 🔭 I’m currently a fourth year student.
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a frontend and weekend developer!
 
 
 ### Contact: 
