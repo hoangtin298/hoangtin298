@@ -12,7 +12,7 @@
 
 ### Contact: 
 &nbsp;&nbsp; [<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<br />
+
 
 ### Languages and Tools 🗃️:
 - 🌐 &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) 
