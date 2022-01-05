@@ -14,7 +14,8 @@
 - ⚡ Fun fact: I'm a frontend and weekend developer!
 
 
-### Contact: [<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+### Contact: 
+&nbsp;&nbsp; [<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br />
 
 ### Languages and Tools 🗃️:
