@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/hoangtin298/hoangtin298/blob/main/dev-gif.gif" width="350" height="280" />
 
 ## I'm a Software Engineer !!!
-- ✍ You can find my projects here: https://www.topcv.vn/xem-cv/UFBeVgYEBwNRVQNSBlIFAQAGB1VSWgQHAw4MBQ84d1
+- ✍ You can find my CV with projects here: https://www.topcv.vn/xem-cv/UFBeVgYEBwNRVQNSBlIFAQAGB1VSWgQHAw4MBQ84d1
 - 🔭 I’m currently a fourth year student.
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 👯 I’m looking to collaborate on open source
