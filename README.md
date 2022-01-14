@@ -1,6 +1,6 @@
 <h2>Hello World, I'm Tin Nguyen 👋</h2> 
 
-<a href="https://app.daily.dev/hoangtin69"><img align="right" src="https://api.daily.dev/devcards/6d13aebfdeb54c8398ecdb32b63f0561.png?r=grj" width="400" alt="Nguyen Hoang Tin's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/hoangtin69"><img align="right" src="https://api.daily.dev/devcards/6d13aebfdeb54c8398ecdb32b63f0561.png?r=grj" width="400" alt="Nguyen Hoang Tin's Dev Card"/></a> -->
 
 <h3>I'm a Software Engineer 🧑‍💻</h3>
 
