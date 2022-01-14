@@ -9,16 +9,6 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 
-
-### Contact: 
-<p align="center">
-&nbsp; <a href="https://www.facebook.com/tinnguyen2908/" target="_blank" rel="noopener noreferrer"><img src="https://media.macosicons.com/parse/files/macOSicons/9408af703138e50f296786ed0f3ec06d_Facebook.png" width="50" /></a>  
-&nbsp; <a href="mailto:tinnh298@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://preview.redd.it/izqwm1g21b751.png?auto=webp&s=da8f46dec79e38870efeac10d5a829e50792686b"  width="50" /></a>
-&nbsp; <a href="https://www.instagram.com/nhoangtin/" target="_blank" rel="noopener noreferrer"><img src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png"  width="50" /></a>
-&nbsp; <a href="https://www.linkedin.com/in/t%C3%ADn-nguy%E1%BB%85n-78416722b/" target="_blank" rel="noopener noreferrer"><img src="https://media.macosicons.com/parse/files/macOSicons/c1dafa6ab9556f27e2b9a3a6e1f07630_low_res_1619104099625.png" width="50" /></a>
-</p>
-
-
 ### Languages and Tools 🗃️:
 - 🌐 &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) 
             ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) 
@@ -39,7 +29,14 @@
             ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
             ![Postman](https://img.shields.io/badge/-Postman-181717?style=flat-square&logo=Postman)
             ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-     
+
+### Contact: 
+<p align="center">
+&nbsp; <a href="https://www.facebook.com/tinnguyen2908/" target="_blank" rel="noopener noreferrer"><img src="https://media.macosicons.com/parse/files/macOSicons/9408af703138e50f296786ed0f3ec06d_Facebook.png" width="50" /></a>  
+&nbsp; <a href="mailto:tinnh298@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://preview.redd.it/izqwm1g21b751.png?auto=webp&s=da8f46dec79e38870efeac10d5a829e50792686b"  width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/nhoangtin/" target="_blank" rel="noopener noreferrer"><img src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png"  width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/t%C3%ADn-nguy%E1%BB%85n-78416722b/" target="_blank" rel="noopener noreferrer"><img src="https://media.macosicons.com/parse/files/macOSicons/c1dafa6ab9556f27e2b9a3a6e1f07630_low_res_1619104099625.png" width="50" /></a>
+</p>
 
 ### More!
 
