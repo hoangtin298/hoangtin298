@@ -47,14 +47,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Tin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hoangtin298&show_icons=true&hide_border=true" />
+  <img align="left" width="100%" alt="Tin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hoangtin298&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  <img align="left" alt="Tin's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtin298" />
+  <img align="left" width="100%" alt="Tin's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtin298" />
 
 </details>
 
