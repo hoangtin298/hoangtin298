@@ -3,6 +3,7 @@
 <a href="https://app.daily.dev/hoangtin69"><img align="right" src="https://api.daily.dev/devcards/6d13aebfdeb54c8398ecdb32b63f0561.png?r=grj" width="400" alt="Nguyen Hoang Tin's Dev Card"/></a>
 
 <h3>I'm a Software Engineer 🧑‍💻</h3>
+
 - ✍ You can find my CV with projects here: https://www.topcv.vn/xem-cv/UFBeVgYEBwNRVQNSBlIFAQAGB1VSWgQHAw4MBQ84d1
 - 🔭 I’m currently a fourth year student.
 - 🌱 I’m currently learning ReactJS and NodeJS
@@ -11,6 +12,7 @@
 - 😄 Pronouns: He/Him
 
 <h3>Languages and Tools 🗃️</h3>
+
 - 🌐 &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) 
             ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) 
             ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
@@ -32,6 +34,7 @@
             ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
 <h3>Contact ⌨️</h3>
+
 <p align="center">
 &nbsp; <a href="https://www.facebook.com/tinnguyen2908/" target="_blank" rel="noopener noreferrer"><img src="https://media.macosicons.com/parse/files/macOSicons/9408af703138e50f296786ed0f3ec06d_Facebook.png" width="50" /></a>  
 &nbsp; <a href="mailto:tinnh298@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://preview.redd.it/izqwm1g21b751.png?auto=webp&s=da8f46dec79e38870efeac10d5a829e50792686b"  width="50" /></a>
