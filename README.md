@@ -30,7 +30,7 @@
             ![Postman](https://img.shields.io/badge/-Postman-181717?style=flat-square&logo=Postman)
             ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
-### Contact 📱
+### Contact ⌨️
 <p align="center">
 &nbsp; <a href="https://www.facebook.com/tinnguyen2908/" target="_blank" rel="noopener noreferrer"><img src="https://media.macosicons.com/parse/files/macOSicons/9408af703138e50f296786ed0f3ec06d_Facebook.png" width="50" /></a>  
 &nbsp; <a href="mailto:tinnh298@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://preview.redd.it/izqwm1g21b751.png?auto=webp&s=da8f46dec79e38870efeac10d5a829e50792686b"  width="50" /></a>
@@ -50,7 +50,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Tin's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtin298" />
+  <img align="left" alt="Tin's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtin298" />
 
 </details>
 
