@@ -1,5 +1,6 @@
 <h1>Hello World, I'm Tin Nguyen 👋</h1> 
 <!-- <img align="right" alt="GIF" src="https://github.com/hoangtin298/hoangtin298/blob/main/dev-gif.gif" width="350" height="280" /> -->
+<a href="https://app.daily.dev/hoangtin69"><img src="https://api.daily.dev/devcards/6d13aebfdeb54c8398ecdb32b63f0561.png?r=grj" width="400" alt="Nguyen Hoang Tin's Dev Card"/></a>
 
 ## I'm a Software Engineer 🧑‍💻
 - ✍ You can find my CV with projects here: https://www.topcv.vn/xem-cv/UFBeVgYEBwNRVQNSBlIFAQAGB1VSWgQHAw4MBQ84d1
