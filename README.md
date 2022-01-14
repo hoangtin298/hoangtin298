@@ -1,7 +1,7 @@
 <h1>Hello World, I'm Tin Nguyen 👋</h1> 
 <!-- <img align="right" alt="GIF" src="https://github.com/hoangtin298/hoangtin298/blob/main/dev-gif.gif" width="350" height="280" /> -->
 
-## I'm a Software Engineer !!!
+## I'm a Software Engineer 🧑‍💻
 - ✍ You can find my CV with projects here: https://www.topcv.vn/xem-cv/UFBeVgYEBwNRVQNSBlIFAQAGB1VSWgQHAw4MBQ84d1
 - 🔭 I’m currently a fourth year student.
 - 🌱 I’m currently learning ReactJS and NodeJS
@@ -9,7 +9,7 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 
-### Languages and Tools 🗃️:
+### Languages and Tools 🗃️
 - 🌐 &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) 
             ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) 
             ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
@@ -30,7 +30,7 @@
             ![Postman](https://img.shields.io/badge/-Postman-181717?style=flat-square&logo=Postman)
             ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
-### Contact: 
+### Contact 📱
 <p align="center">
 &nbsp; <a href="https://www.facebook.com/tinnguyen2908/" target="_blank" rel="noopener noreferrer"><img src="https://media.macosicons.com/parse/files/macOSicons/9408af703138e50f296786ed0f3ec06d_Facebook.png" width="50" /></a>  
 &nbsp; <a href="mailto:tinnh298@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://preview.redd.it/izqwm1g21b751.png?auto=webp&s=da8f46dec79e38870efeac10d5a829e50792686b"  width="50" /></a>
@@ -38,7 +38,7 @@
 &nbsp; <a href="https://www.linkedin.com/in/t%C3%ADn-nguy%E1%BB%85n-78416722b/" target="_blank" rel="noopener noreferrer"><img src="https://media.macosicons.com/parse/files/macOSicons/c1dafa6ab9556f27e2b9a3a6e1f07630_low_res_1619104099625.png" width="50" /></a>
 </p>
 
-### More!
+### More 💖
 
 <details>
   <summary>:zap: GitHub Stats</summary>
