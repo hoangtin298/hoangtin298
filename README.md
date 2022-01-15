@@ -1,7 +1,5 @@
 <h2>Hello World, I'm Tin Nguyen 👋</h2> 
 
-<!-- <a href="https://app.daily.dev/hoangtin69"><img align="right" src="https://api.daily.dev/devcards/6d13aebfdeb54c8398ecdb32b63f0561.png?r=grj" width="400" alt="Nguyen Hoang Tin's Dev Card"/></a> -->
-
 <h3>I'm a Software Engineer 🧑‍💻</h3>
 
 - ✍ You can find my CV with projects here: https://www.topcv.vn/xem-cv/UFBeVgYEBwNRVQNSBlIFAQAGB1VSWgQHAw4MBQ84d1
@@ -58,10 +56,7 @@
 
 </details>
 
-<!-- [website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw -->
-[facebook]: https://www.facebook.com/tinnguyen2908/
-<!-- [linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/ -->
+
+<a href="https://app.daily.dev/hoangtin69"><img align="right" src="https://api.daily.dev/devcards/6d13aebfdeb54c8398ecdb32b63f0561.png?r=grj" width="400" alt="Nguyen Hoang Tin's Dev Card"/></a>
 
 
