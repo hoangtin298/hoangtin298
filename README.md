@@ -57,6 +57,6 @@
 </details>
 
 
-<a display="block" text-align="center" href="https://app.daily.dev/hoangtin69"><img align="center" src="https://api.daily.dev/devcards/6d13aebfdeb54c8398ecdb32b63f0561.png?r=grj" width="400" alt="Nguyen Hoang Tin's Dev Card"/></a>
+<a display="flex" justify-content="center" href="https://app.daily.dev/hoangtin69"><img align="center" src="https://api.daily.dev/devcards/6d13aebfdeb54c8398ecdb32b63f0561.png?r=grj" width="400" alt="Nguyen Hoang Tin's Dev Card"/></a>
 
 
