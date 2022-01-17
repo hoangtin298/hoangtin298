@@ -43,7 +43,7 @@
 
 <h3>More 💖</h3>
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" width="100%" alt="Tin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hoangtin298&show_icons=true&hide_border=true" />
@@ -55,9 +55,14 @@
 
   <img align="left" width="100%" alt="Tin's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtin298" />
 
-</details>
+</details> -->
 
 
-<!-- <a align="center" href="https://app.daily.dev/hoangtin69"><img align="center" src="https://api.daily.dev/devcards/6d13aebfdeb54c8398ecdb32b63f0561.png?r=grj" width="400" alt="Nguyen Hoang Tin's Dev Card"/></a> -->
+- ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/lamhan3012cmvn">https://profile-summary-for-github.com/user/hoangtin298</a>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=hoangtin298&count_private=true&show_icons=true&theme=blueberry" width=55% height="204px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtin298&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
+</p>
 
 
