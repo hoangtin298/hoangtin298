@@ -2,7 +2,7 @@
 
 <h3>I'm a Software Engineer 🧑‍💻</h3>
 
-- ✍ You can find my CV with projects here: https://www.topcv.vn/xem-cv/UFBeVgYEBwNRVQNSBlIFAQAGB1VSWgQHAw4MBQ84d1
+- ✍ You can find my CV with projects here: https://www.topcv.vn/xem-cv/VQYBXwpUBwhVVgRXUVFUBg5QVltXVgNSBwYEBQ1074
 - 🔭 I’m currently a fourth year student.
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 👯 I’m looking to collaborate on open source
